@@ -26,13 +26,13 @@ Steps to Install
 
 ## Tech Used
 Technologies Used
-**Kotlin**: Primary programming language used for Android app development.
-**Android SDK**: Android development toolkit for building and testing the app.
-**Retrofit**: HTTP client for making API calls to the Cricket Data API.
-**Cricket Data** API: Provides real-time data for IPL matches.
-**Coroutines**: For managing background threads and making asynchronous API calls.
-**Material Design**: UI design framework used to create a clean and modern user interface.
-**LiveData and ViewModel**: For managing UI-related data lifecycle-conscious way.
+- **Kotlin**: Primary programming language used for Android app development.
+- **Android SDK**: Android development toolkit for building and testing the app.
+- **Retrofit**: HTTP client for making API calls to the Cricket Data API.
+- **Cricket Data** API: Provides real-time data for IPL matches.
+- **Coroutines**: For managing background threads and making asynchronous API calls.
+- **Material Design**: UI design framework used to create a clean and modern user interface.
+- **LiveData and ViewModel**: For managing UI-related data lifecycle-conscious way.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
